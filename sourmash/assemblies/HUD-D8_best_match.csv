@@ -1,0 +1,9 @@
+similarity,name,filename,md5,query_filename,query_name,query_md5
+0.4916175100900341,"GCF_009183365.1 Shewanella algae strain=CECT 5071, ASM918336v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,44c38b763e823efa72b080c998e62eeb,HUD-D8.fna.gz,,2ca1bfce
+0.49074793966723684,"GCF_001598875.1 Shewanella algae JCM 21037 = NBRC 103173 strain=NBRC 103173, ASM159887v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,abfeefc64a6c13541cf1099d27962e84,HUD-D8.fna.gz,,2ca1bfce
+0.473595333128646,"GCF_007595365.1 Shewanella algae strain=CLS2, ASM759536v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,ace1848aecdf531df1ef978f5a921d01,HUD-D8.fna.gz,,2ca1bfce
+0.4725680036883356,"GCF_007595405.1 Shewanella algae strain=SYT3, ASM759540v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,d34cae4323534ab1a2cfbbe7d082a34f,HUD-D8.fna.gz,,2ca1bfce
+0.1664564943253468,"GCF_003217175.1 Shewanella chilikensis strain=JC5, ASM321717v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,3ba1ee236792e03ab1a433ead208d38a,HUD-D8.fna.gz,,2ca1bfce
+0.16563408774813504,"GCF_002836945.1 Shewanella chilikensis strain=JC5, ASM283694v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,3030bebb74dd5b20c0b1dd0e3167d5d3,HUD-D8.fna.gz,,2ca1bfce
+0.14561645553743885,"GCA_014644375.1 Shewanella carassii strain=CGMCC 1.16033, ASM1464437v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,21cbe662552585172c50ca586eefbe09,HUD-D8.fna.gz,,2ca1bfce
+0.14552753732279514,"GCF_002777975.1 Shewanella carassii strain=08MAS2251, ASM277797v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,b4098bfab5d808a200b300d567512ea1,HUD-D8.fna.gz,,2ca1bfce

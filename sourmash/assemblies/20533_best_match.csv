@@ -1,0 +1,12 @@
+similarity,name,filename,md5,query_filename,query_name,query_md5
+0.4774721189591078,"GCF_003721455.1 Shewanella algae strain=KC-Na-R1, ASM372145v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,30b149c9a32b67cdff91ce5465858b8e,20533.fna.gz,,9c3681d3
+0.46863132310496736,"GCF_007636355.1 Shewanella algae strain=JFC3, ASM763635v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,e5e067242932222168f5e2471e7b08ed,20533.fna.gz,,9c3681d3
+0.4643127746628277,"GCF_007595095.1 Shewanella algae strain=SYT1, ASM759509v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,74f8a264f6588fb50f9debb7217ba907,20533.fna.gz,,9c3681d3
+0.46312594840667676,"GCF_007636395.1 Shewanella algae strain=RC, ASM763639v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,8bbf46eb9d46a035e4a9aa9f73af025f,20533.fna.gz,,9c3681d3
+0.46133902699405216,"GCF_001598875.1 Shewanella algae JCM 21037 = NBRC 103173 strain=NBRC 103173, ASM159887v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,abfeefc64a6c13541cf1099d27962e84,20533.fna.gz,,9c3681d3
+0.4565052375891908,"GCF_007595365.1 Shewanella algae strain=CLS2, ASM759536v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,ace1848aecdf531df1ef978f5a921d01,20533.fna.gz,,9c3681d3
+0.45348307785703446,"GCF_007595405.1 Shewanella algae strain=SYT3, ASM759540v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,d34cae4323534ab1a2cfbbe7d082a34f,20533.fna.gz,,9c3681d3
+0.16419038025686225,"GCA_014651975.1 Shewanella chilikensis strain=KCTC 22540, ASM1465197v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,2aa75fb03ce8de5599540ab2a2069b5b,20533.fna.gz,,9c3681d3
+0.16406446738856711,"GCF_003217175.1 Shewanella chilikensis strain=JC5, ASM321717v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,3ba1ee236792e03ab1a433ead208d38a,20533.fna.gz,,9c3681d3
+0.16367769638797677,"GCF_002836945.1 Shewanella chilikensis strain=JC5, ASM283694v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,3030bebb74dd5b20c0b1dd0e3167d5d3,20533.fna.gz,,9c3681d3
+0.14232069095005634,"GCF_002777975.1 Shewanella carassii strain=08MAS2251, ASM277797v1",/ceph/db/sourmash/gtdb-rs202.genomic.k31.sbt.zip,b4098bfab5d808a200b300d567512ea1,20533.fna.gz,,9c3681d3
