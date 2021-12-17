@@ -1,1 +1,1 @@
-# 162_Salgae_diGMP_analysis
+# Salgae_c-di-GMP_analysis
