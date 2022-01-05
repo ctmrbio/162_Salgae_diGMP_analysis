@@ -1,0 +1,2 @@
+# ignore core gene alignment from roary - too big
+*.aln
